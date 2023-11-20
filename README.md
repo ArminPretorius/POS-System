@@ -1,4 +1,4 @@
-# Encryption Tool
+# POS System
 ## About This Project:
 POS system that manages inventory and sales for a business.
 
